@@ -12,6 +12,6 @@ public class ProvamoxActivity extends Activity {
         setContentView(R.layout.main);
         
         TextView t1 = (TextView) findViewById(R.id.tv1);
-        t1.setText("invece no");
+        t1.setText("invece si");
     }
 }
