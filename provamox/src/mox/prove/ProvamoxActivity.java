@@ -10,7 +10,7 @@ public class ProvamoxActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-        
+        // commento
         TextView t1 = (TextView) findViewById(R.id.tv1);
         t1.setText("invece si o no");
     }
